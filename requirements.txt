@@ -1,3 +1,4 @@
 retina-face
 opencv-python
 tqdm
+tf_keras
